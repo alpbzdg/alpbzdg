@@ -1,4 +1,10 @@
 Hi there 👋
-I'm **Alp bozdağ** and currently working at
+I'm **Alp Bozdağ** and currently working at
 Başkent Üniversitesi as Sotfware Specialist
+
+```javascript
+   var knowladge = ['Php','Css','jQuery','Javascript','C#','.Net Entity Core','MySQL','Oracle','PL/SQL','MongoDB','NodeJS']
+```
+
+> "Programcının işi şimdiye kadar görülen işler arasında en karmaşık olanıdır." -Prof.Dr.Timur Karaçay
 
